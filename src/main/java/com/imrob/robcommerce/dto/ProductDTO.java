@@ -1,7 +1,6 @@
 package com.imrob.robcommerce.dto;
 
 import com.imrob.robcommerce.entities.Product;
-import jakarta.persistence.Column;
 
 public class ProductDTO {
     private Long id;
